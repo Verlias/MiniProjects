@@ -54,6 +54,7 @@ if __name__ == "__main__":
             print("2. Remove a book from the library")
             print("3. Display all books in the library")
             print("4. Exit")
+            print()
             user_input = int(input("Please Choose your Option:"))
 
             if user_input == 1:

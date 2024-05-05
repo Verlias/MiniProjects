@@ -1,6 +1,6 @@
-# Simple Projects Repository
+# Mini/Simple Projects Repository
 
-Welcome to the Simple Projects repository! 🚀
+Welcome to the Mini/Simple Projects repository! 🚀
 
 This repository contains a collection of simple and beginner-friendly coding projects. These projects are meant for learning and practice purposes and are not intended to be taken too seriously. 
 ## About

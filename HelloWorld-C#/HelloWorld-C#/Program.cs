@@ -6,5 +6,6 @@ class Hello
     {
         // This line prints "Hello, world"
         Console.WriteLine("Hello, World");
+        Console.WriteLine("Hi");
     }
 }

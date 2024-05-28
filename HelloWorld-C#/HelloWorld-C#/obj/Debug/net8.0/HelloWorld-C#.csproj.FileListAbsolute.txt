@@ -1,0 +1,15 @@
+C:\Users\logan\OneDrive\Desktop\MiniProjects\HelloWorld-C#\HelloWorld-C#\bin\Debug\net8.0\HelloWorld-C#.exe
+C:\Users\logan\OneDrive\Desktop\MiniProjects\HelloWorld-C#\HelloWorld-C#\bin\Debug\net8.0\HelloWorld-C#.deps.json
+C:\Users\logan\OneDrive\Desktop\MiniProjects\HelloWorld-C#\HelloWorld-C#\bin\Debug\net8.0\HelloWorld-C#.runtimeconfig.json
+C:\Users\logan\OneDrive\Desktop\MiniProjects\HelloWorld-C#\HelloWorld-C#\bin\Debug\net8.0\HelloWorld-C#.dll
+C:\Users\logan\OneDrive\Desktop\MiniProjects\HelloWorld-C#\HelloWorld-C#\bin\Debug\net8.0\HelloWorld-C#.pdb
+C:\Users\logan\OneDrive\Desktop\MiniProjects\HelloWorld-C#\HelloWorld-C#\obj\Debug\net8.0\HelloWorld-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\OneDrive\Desktop\MiniProjects\HelloWorld-C#\HelloWorld-C#\obj\Debug\net8.0\HelloWorld-C#.AssemblyInfoInputs.cache
+C:\Users\logan\OneDrive\Desktop\MiniProjects\HelloWorld-C#\HelloWorld-C#\obj\Debug\net8.0\HelloWorld-C#.AssemblyInfo.cs
+C:\Users\logan\OneDrive\Desktop\MiniProjects\HelloWorld-C#\HelloWorld-C#\obj\Debug\net8.0\HelloWorld-C#.csproj.CoreCompileInputs.cache
+C:\Users\logan\OneDrive\Desktop\MiniProjects\HelloWorld-C#\HelloWorld-C#\obj\Debug\net8.0\HelloWorld-C#.sourcelink.json
+C:\Users\logan\OneDrive\Desktop\MiniProjects\HelloWorld-C#\HelloWorld-C#\obj\Debug\net8.0\HelloWorld-C#.dll
+C:\Users\logan\OneDrive\Desktop\MiniProjects\HelloWorld-C#\HelloWorld-C#\obj\Debug\net8.0\refint\HelloWorld-C#.dll
+C:\Users\logan\OneDrive\Desktop\MiniProjects\HelloWorld-C#\HelloWorld-C#\obj\Debug\net8.0\HelloWorld-C#.pdb
+C:\Users\logan\OneDrive\Desktop\MiniProjects\HelloWorld-C#\HelloWorld-C#\obj\Debug\net8.0\HelloWorld-C#.genruntimeconfig.cache
+C:\Users\logan\OneDrive\Desktop\MiniProjects\HelloWorld-C#\HelloWorld-C#\obj\Debug\net8.0\ref\HelloWorld-C#.dll

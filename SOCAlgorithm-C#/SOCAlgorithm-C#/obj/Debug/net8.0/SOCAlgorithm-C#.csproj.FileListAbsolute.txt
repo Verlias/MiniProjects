@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\SOCAlgorithm-C#\SOCAlgorithm-C#\obj\Debug\net8.0\SOCAlgorithm-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\SOCAlgorithm-C#\SOCAlgorithm-C#\obj\Debug\net8.0\SOCAlgorithm-C#.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\SOCAlgorithm-C#\SOCAlgorithm-C#\obj\Debug\net8.0\SOCAlgorithm-C#.AssemblyInfo.cs
+C:\Users\logan\source\repos\SOCAlgorithm-C#\SOCAlgorithm-C#\obj\Debug\net8.0\SOCAlgorithm-C#.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\SOCAlgorithm-C#\SOCAlgorithm-C#\bin\Debug\net8.0\SOCAlgorithm-C#.exe
+C:\Users\logan\source\repos\SOCAlgorithm-C#\SOCAlgorithm-C#\bin\Debug\net8.0\SOCAlgorithm-C#.deps.json
+C:\Users\logan\source\repos\SOCAlgorithm-C#\SOCAlgorithm-C#\bin\Debug\net8.0\SOCAlgorithm-C#.runtimeconfig.json
+C:\Users\logan\source\repos\SOCAlgorithm-C#\SOCAlgorithm-C#\bin\Debug\net8.0\SOCAlgorithm-C#.dll
+C:\Users\logan\source\repos\SOCAlgorithm-C#\SOCAlgorithm-C#\bin\Debug\net8.0\SOCAlgorithm-C#.pdb
+C:\Users\logan\source\repos\SOCAlgorithm-C#\SOCAlgorithm-C#\obj\Debug\net8.0\SOCAlgorithm-C#.dll
+C:\Users\logan\source\repos\SOCAlgorithm-C#\SOCAlgorithm-C#\obj\Debug\net8.0\refint\SOCAlgorithm-C#.dll
+C:\Users\logan\source\repos\SOCAlgorithm-C#\SOCAlgorithm-C#\obj\Debug\net8.0\SOCAlgorithm-C#.pdb
+C:\Users\logan\source\repos\SOCAlgorithm-C#\SOCAlgorithm-C#\obj\Debug\net8.0\SOCAlgorithm-C#.genruntimeconfig.cache
+C:\Users\logan\source\repos\SOCAlgorithm-C#\SOCAlgorithm-C#\obj\Debug\net8.0\ref\SOCAlgorithm-C#.dll

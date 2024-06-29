@@ -1,0 +1,10 @@
+C:\Users\logan\source\repos\WordFrequencyApp\WordFrequencyApp\bin\Debug\WordFrequencyApp.exe.config
+C:\Users\logan\source\repos\WordFrequencyApp\WordFrequencyApp\bin\Debug\WordFrequencyApp.exe
+C:\Users\logan\source\repos\WordFrequencyApp\WordFrequencyApp\bin\Debug\WordFrequencyApp.pdb
+C:\Users\logan\source\repos\WordFrequencyApp\WordFrequencyApp\obj\Debug\WordFrequencyApp.csproj.AssemblyReference.cache
+C:\Users\logan\source\repos\WordFrequencyApp\WordFrequencyApp\obj\Debug\WordFrequencyApp.Form1.resources
+C:\Users\logan\source\repos\WordFrequencyApp\WordFrequencyApp\obj\Debug\WordFrequencyApp.Properties.Resources.resources
+C:\Users\logan\source\repos\WordFrequencyApp\WordFrequencyApp\obj\Debug\WordFrequencyApp.csproj.GenerateResource.cache
+C:\Users\logan\source\repos\WordFrequencyApp\WordFrequencyApp\obj\Debug\WordFrequencyApp.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\WordFrequencyApp\WordFrequencyApp\obj\Debug\WordFrequencyApp.exe
+C:\Users\logan\source\repos\WordFrequencyApp\WordFrequencyApp\obj\Debug\WordFrequencyApp.pdb

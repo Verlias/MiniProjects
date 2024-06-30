@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\logan\\source\\repos\\CarGarage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4071F3A6-966E-4388-9542-F21E2CAEAD9E}|CarGarage\\CarGarage.csproj|c:\\users\\logan\\source\\repos\\cargarage\\cargarage\\carclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4071F3A6-966E-4388-9542-F21E2CAEAD9E}|CarGarage\\CarGarage.csproj|solutionrelative:cargarage\\carclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4071F3A6-966E-4388-9542-F21E2CAEAD9E}|CarGarage\\CarGarage.csproj|c:\\users\\logan\\source\\repos\\cargarage\\cargarage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4071F3A6-966E-4388-9542-F21E2CAEAD9E}|CarGarage\\CarGarage.csproj|solutionrelative:cargarage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarClass.cs",
+              "DocumentMoniker": "C:\\Users\\logan\\source\\repos\\CarGarage\\CarGarage\\CarClass.cs",
+              "RelativeDocumentMoniker": "CarGarage\\CarClass.cs",
+              "ToolTip": "C:\\Users\\logan\\source\\repos\\CarGarage\\CarGarage\\CarClass.cs",
+              "RelativeToolTip": "CarGarage\\CarClass.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAuwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T21:54:21.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\logan\\source\\repos\\CarGarage\\CarGarage\\Program.cs",
+              "RelativeDocumentMoniker": "CarGarage\\Program.cs",
+              "ToolTip": "C:\\Users\\logan\\source\\repos\\CarGarage\\CarGarage\\Program.cs",
+              "RelativeToolTip": "CarGarage\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T19:24:36.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

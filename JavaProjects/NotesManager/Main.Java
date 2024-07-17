@@ -1,4 +1,9 @@
 import java.util.Scanner;
+import java.util.*; 
+import java.util.function.Supplier; 
+import java.util.ArrayList;
+import java.util.List;
+import NoteBook.Java;
 
 
 public class Main{
@@ -14,6 +19,10 @@ public class Main{
         System.out.println("");
         Note note = new Note(name, description);
         note.DisplayInformation();
+        NoteBook book = new NoteBook();
+        book.addNote(note);
+        book.Remove("Chicken");
+
     }
 
 }
@@ -52,4 +61,3 @@ public class Note{
 
 }
 
-//Implement NoteBook Maybe

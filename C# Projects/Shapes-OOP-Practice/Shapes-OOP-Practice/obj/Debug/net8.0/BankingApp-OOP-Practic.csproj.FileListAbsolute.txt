@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\BankingApp-OOP-Practic\BankingApp-OOP-Practic\bin\Debug\net8.0\BankingApp-OOP-Practic.exe
+C:\Users\logan\source\repos\BankingApp-OOP-Practic\BankingApp-OOP-Practic\bin\Debug\net8.0\BankingApp-OOP-Practic.deps.json
+C:\Users\logan\source\repos\BankingApp-OOP-Practic\BankingApp-OOP-Practic\bin\Debug\net8.0\BankingApp-OOP-Practic.runtimeconfig.json
+C:\Users\logan\source\repos\BankingApp-OOP-Practic\BankingApp-OOP-Practic\bin\Debug\net8.0\BankingApp-OOP-Practic.dll
+C:\Users\logan\source\repos\BankingApp-OOP-Practic\BankingApp-OOP-Practic\bin\Debug\net8.0\BankingApp-OOP-Practic.pdb
+C:\Users\logan\source\repos\BankingApp-OOP-Practic\BankingApp-OOP-Practic\obj\Debug\net8.0\BankingApp-OOP-Practic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\BankingApp-OOP-Practic\BankingApp-OOP-Practic\obj\Debug\net8.0\BankingApp-OOP-Practic.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\BankingApp-OOP-Practic\BankingApp-OOP-Practic\obj\Debug\net8.0\BankingApp-OOP-Practic.AssemblyInfo.cs
+C:\Users\logan\source\repos\BankingApp-OOP-Practic\BankingApp-OOP-Practic\obj\Debug\net8.0\BankingApp-OOP-Practic.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\BankingApp-OOP-Practic\BankingApp-OOP-Practic\obj\Debug\net8.0\BankingApp-OOP-Practic.dll
+C:\Users\logan\source\repos\BankingApp-OOP-Practic\BankingApp-OOP-Practic\obj\Debug\net8.0\refint\BankingApp-OOP-Practic.dll
+C:\Users\logan\source\repos\BankingApp-OOP-Practic\BankingApp-OOP-Practic\obj\Debug\net8.0\BankingApp-OOP-Practic.pdb
+C:\Users\logan\source\repos\BankingApp-OOP-Practic\BankingApp-OOP-Practic\obj\Debug\net8.0\BankingApp-OOP-Practic.genruntimeconfig.cache
+C:\Users\logan\source\repos\BankingApp-OOP-Practic\BankingApp-OOP-Practic\obj\Debug\net8.0\ref\BankingApp-OOP-Practic.dll

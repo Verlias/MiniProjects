@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\PetLife\PetLife\obj\Debug\net8.0\PetLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\PetLife\PetLife\obj\Debug\net8.0\PetLife.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\PetLife\PetLife\obj\Debug\net8.0\PetLife.AssemblyInfo.cs
+C:\Users\logan\source\repos\PetLife\PetLife\obj\Debug\net8.0\PetLife.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\PetLife\PetLife\bin\Debug\net8.0\PetLife.exe
+C:\Users\logan\source\repos\PetLife\PetLife\bin\Debug\net8.0\PetLife.deps.json
+C:\Users\logan\source\repos\PetLife\PetLife\bin\Debug\net8.0\PetLife.runtimeconfig.json
+C:\Users\logan\source\repos\PetLife\PetLife\bin\Debug\net8.0\PetLife.dll
+C:\Users\logan\source\repos\PetLife\PetLife\bin\Debug\net8.0\PetLife.pdb
+C:\Users\logan\source\repos\PetLife\PetLife\obj\Debug\net8.0\PetLife.dll
+C:\Users\logan\source\repos\PetLife\PetLife\obj\Debug\net8.0\refint\PetLife.dll
+C:\Users\logan\source\repos\PetLife\PetLife\obj\Debug\net8.0\PetLife.pdb
+C:\Users\logan\source\repos\PetLife\PetLife\obj\Debug\net8.0\PetLife.genruntimeconfig.cache
+C:\Users\logan\source\repos\PetLife\PetLife\obj\Debug\net8.0\ref\PetLife.dll

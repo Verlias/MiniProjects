@@ -1,0 +1,15 @@
+/Users/loganvoravong/Desktop/MiniProjects/MiniProjects/C# Projects/LearnC#inOneDay/Ch2/obj/Debug/net10.0/Ch2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/loganvoravong/Desktop/MiniProjects/MiniProjects/C# Projects/LearnC#inOneDay/Ch2/obj/Debug/net10.0/Ch2.AssemblyInfoInputs.cache
+/Users/loganvoravong/Desktop/MiniProjects/MiniProjects/C# Projects/LearnC#inOneDay/Ch2/obj/Debug/net10.0/Ch2.AssemblyInfo.cs
+/Users/loganvoravong/Desktop/MiniProjects/MiniProjects/C# Projects/LearnC#inOneDay/Ch2/obj/Debug/net10.0/Ch2.csproj.CoreCompileInputs.cache
+/Users/loganvoravong/Desktop/MiniProjects/MiniProjects/C# Projects/LearnC#inOneDay/Ch2/obj/Debug/net10.0/Ch2.sourcelink.json
+/Users/loganvoravong/Desktop/MiniProjects/MiniProjects/C# Projects/LearnC#inOneDay/Ch2/bin/Debug/net10.0/Ch2
+/Users/loganvoravong/Desktop/MiniProjects/MiniProjects/C# Projects/LearnC#inOneDay/Ch2/bin/Debug/net10.0/Ch2.deps.json
+/Users/loganvoravong/Desktop/MiniProjects/MiniProjects/C# Projects/LearnC#inOneDay/Ch2/bin/Debug/net10.0/Ch2.runtimeconfig.json
+/Users/loganvoravong/Desktop/MiniProjects/MiniProjects/C# Projects/LearnC#inOneDay/Ch2/bin/Debug/net10.0/Ch2.dll
+/Users/loganvoravong/Desktop/MiniProjects/MiniProjects/C# Projects/LearnC#inOneDay/Ch2/bin/Debug/net10.0/Ch2.pdb
+/Users/loganvoravong/Desktop/MiniProjects/MiniProjects/C# Projects/LearnC#inOneDay/Ch2/obj/Debug/net10.0/Ch2.dll
+/Users/loganvoravong/Desktop/MiniProjects/MiniProjects/C# Projects/LearnC#inOneDay/Ch2/obj/Debug/net10.0/refint/Ch2.dll
+/Users/loganvoravong/Desktop/MiniProjects/MiniProjects/C# Projects/LearnC#inOneDay/Ch2/obj/Debug/net10.0/Ch2.pdb
+/Users/loganvoravong/Desktop/MiniProjects/MiniProjects/C# Projects/LearnC#inOneDay/Ch2/obj/Debug/net10.0/Ch2.genruntimeconfig.cache
+/Users/loganvoravong/Desktop/MiniProjects/MiniProjects/C# Projects/LearnC#inOneDay/Ch2/obj/Debug/net10.0/ref/Ch2.dll
